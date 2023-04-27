@@ -47,7 +47,7 @@
 		<div class="row add_bottom_25">
 			<div class="col-lg-6">
 				<ul class="footer-selector clearfix">
-					<li><img src="data:{{ asset('Front') }}/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+					<li><img src="#"
 							data-src="{{ asset('Front') }}/img/cards_all.svg" alt="" width="198" height="30"
 							class="lazy"></li>
 				</ul>
