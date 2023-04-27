@@ -1,16 +1,4 @@
-/*!
- * Materialize v1.0.0-alpha.4 (http://materializecss.com)
- * Copyright 2014-2015 Materialize
- * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
- */
 
-/*! nouislider - 9.1.0 - 2016-12-10 16:00:32 */
-
-
-/* Functional styling;
- * These styles are required for noUiSlider to function.
- * You don't need to change these rules to apply your design.
- */
 .noUi-target,
 .noUi-target * {
   -webkit-touch-callout: none;
