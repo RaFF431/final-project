@@ -3,6 +3,8 @@
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
+
+
 Route::get('/', [\App\Http\Controllers\Front\IndexController::class, 'main'])->name('Front.main');
 Route::get('/contact', [\App\Http\Controllers\Front\IndexController::class, 'contact'])->name('Front.contact');
 Route::get('/about-us', [\App\Http\Controllers\Front\IndexController::class, 'about'])->name('Front.about');
